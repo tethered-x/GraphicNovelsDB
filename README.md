@@ -12,10 +12,15 @@ Installation (from WINDOWS)
 - Create a Python Virtual Environment
 - Activate environment
 - Run the following within the venv:
+```
     python .\pip_install_script.py
     python .\sql_install_script.py
+```
 - Execute main program:
+```
     python .\main.py
+```
+
 
 KNOWN LIMITATION:
 The code doesn't check against provided values to see if UPC matches something or ID matches something
