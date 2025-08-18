@@ -1,6 +1,12 @@
 # GraphicNovelsDB
 A Python program that maintains a catalog for my graphic novel collection. It utilizes MySQL, CSV, and Python 3.
 
+Features:
+- Add a graphic novel as a record. Incuding information about the writer, artist, publisher, UPC code, and whether or not you've listed it on eBay.
+- Can modify a record by either edding a eBay link or UPC code.
+- Ability to delete a record if desired.
+- Ability to export list of graphic novels to a CSV file.
+
 Requirements:
 - Python 3
 - MySQL
