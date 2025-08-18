@@ -10,7 +10,7 @@ Installation (from WINDOWS)
 - Create a username and password for the program to use
 - Install Python 3 (I used 3.12)
 - Create a Python Virtual Environment
-- Active environment
+- Activate environment
 - Run the following within the venv:
     python .\pip_install_script.py
     python .\sql_install_script.py
