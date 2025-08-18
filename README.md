@@ -28,7 +28,10 @@ Installation (from WINDOWS)
 ```
 
 
-KNOWN LIMITATION:
-The code doesn't check against provided values to see if UPC matches something or ID matches something
+KNOWN LIMITATIONS:
+
+The code doesn't check against provided values to see if UPC matches something or ID matches something.
 It will just say that the operation is completed but doesn't actually do anything. 
 I'll likely build this functionality later.
+
+The password in server-info.json is not encrypted. It's open text. At some point I might come back and incorporate encryption. 
